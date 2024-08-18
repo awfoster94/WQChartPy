@@ -31,15 +31,22 @@ The repository contains:
 ¦ +-- chernoff.py                            # Code for generating Chernoff faces
 ¦ +-- color_piper.py                         # Code for generating color-coded Piper diagram
 ¦ +-- contour_piper.py                       # Code for generating contour-filled Piper diagram
-¦ +-- durvo.py                               # Code for generating Durvo diagram
+¦ +-- durov.py                               # Code for generating Durov diagram
+¦ +-- durov_mod.py                           # Code for generating Durov diagram with modifications
 ¦ +-- gaillardet.py                          # Code for generating Gaillardet diagram
-¦ +-- gibss.py                               # Code for generating Gibbs diagram
+¦ +-- gaillardet_mod.py                      # Code for generating Gaillardet diagram with modifications
+¦ +-- gibbs.py                               # Code for generating Gibbs diagram
+¦ +-- gibbs_mod.py                           # Code for generating Gibbs diagram with modifications
 ¦ +-- hfed.py                                # Code for generating HFE-D diagram
+¦ +-- hfed_mod.py                            # Code for generating HFE-D diagram with modifications
 ¦ +-- ions.py                                # Code for defining the ion weights and charges
 ¦ +-- rectangle_piper.py                     # Code for generating rectangle diagram
 ¦ +-- schoeller.py                           # Code for generating Schoeller diagram
+¦ +-- schoeller_mod.py                       # Code for generating Schoeller diagram with modifications
 ¦ +-- stiff.py                               # Code for generating Stiff diagram
+¦ +-- stiff_mod.py                           # Code for generating Stiff diagram with modifications
 ¦ +-- triangle_piper.py                      # Code for generating triangle Piper diagram
+¦ +-- triangle_piper_mod.py                  # Code for generating triangle Piper diagram with modifications
 +-- LICENCE                                  # Licence file
 +-- MANIFEST.in                              # Adding BivariateColourScheme.npy to the source distribution 
 +-- README.md                                # Readme file
@@ -87,17 +94,24 @@ We recommend to start by executing the [workflow](https://github.com/jyangfsu/WQ
 | Diagram | Basic usage
 ---------|------------
 Triangle Piper| from wqchartpy import triangle_piper; triangle_piper.plot(df, unit, figname, figformat)
+Triangle Piper Mod| from wqchartpy import triangle_piper_mod; triangle_piper_mod.plot(df, unit, figname, figformat)
 Rectangle Piper| from wqchartpy import rectangle_piper; rectangle_piper.plot(df, unit, figname, figformat)
 Color-coded Piper| from wqchartpy import color_piper; color_piper.plot(df, unit, figname, figformat)
 Contour-filled Piper| from wqchartpy import contour_piper; contour_piper.plot(df, unit, figname, figformat)
-Durov| from wqchartpy import durvo; durvo.plot(df, unit, figname, figformat)
+Durov| from wqchartpy import durov; durov.plot(df, unit, figname, figformat)
+Durov Mod| from wqchartpy import durov mod; durov_mod.plot(df, unit, figname, figformat)
 Stiff| from wqchartpy import stiff; stiff.plot(df, unit, figname, figformat)
+Stiff Mod| from wqchartpy import stiff_mod; stiff_mod.plot(df, unit, figname, figformat)
 Chernoff face| from wqchartpy import chernoff; chernoff.plot(df, unit, figname, figformat)
 Schoeller| from wqchartpy import schoeller; schoeller.plot(df, unit, figname, figformat)
+Schoeller Mod| from wqchartpy import schoeller_mod; schoeller_mod.plot(df, unit, figname, figformat)
 Gibbs| from wqchartpy import gibbs; gibbs.plot(df, unit, figname, figformat)
+Gibbs Mod| from wqchartpy import gibbs_mod; gibbs_mod.plot(df, unit, figname, figformat)
 Chadha| from wqchartpy import chadha; chadha.plot(df, unit, figname, figformat)
 Gaillardet| from wqchartpy import gaillardet; gaillardet.plot(df, unit, figname, figformat)
+Gaillardet Mod| from wqchartpy import gaillardet_mod; gaillardet_mod.plot(df, unit, figname, figformat)
 HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
+HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figformat)
 
 ### Triangle Piper Modification with Hydrogeochemical Facies Interpretation
 <img src="mod_images/triangle Piper diagram mod.jpg" width="400"/>
@@ -122,13 +136,22 @@ HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrELaJZx2xDjJTZR7e5mjwQ7hVXxTfCTamHwVQU09sclARJPwdmwMWxWwhlVnwZqUne89Ni3WCFfFZPYh*CXc15tE!/b&bo=kgIVAgAAAAABF7c!&rf=viewer_4" width="400"/>
 
-### Durvo
+### Durov
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEEELoir7Oh4SDzBYQWBXJICvbD3nwobK7w.AAFx2guuOu1H7LyyMwkYlEcEm8DlajY4MLCz1N2LBOjkMUqmtYNo!/b&bo=3AU4BAAAAAABF9U!&rf=viewer_4" width="600"/>
+
+### Durov Modification
+<img src="mod_images/Durov diagram mod.jpg" width="600"/>
 
 ### Stiff
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJ0QBoQ3kzaRJmIjLTV2iGzJ1f88h7s7cZxWBVMD45bHVTWxXGhucZBhj7Ug7nTwNJTm53CIaNHFVO4HUOmHL6w!/b&bo=ZgTAAwAAAAABF5E!&rf=viewer_4" width="300"/>
+
+### Stiff Modification Inidividual
+<img src="mod_images/Stiff Diagram mod_sample1.jpg" width="300"/>
+
+### Stiff Modification Combined
+<img src="mod_images/Durov diagram mod_combined.jpg" width="300"/>
 
 ### Chernoff face
 
@@ -138,9 +161,15 @@ HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJxgqA6zKacIyWVqI1dsvgm0t8el8yLIIyKkatCvtLXFm03BnWImNlfZ9EyRr*wtXQ4Iasm4SWyJupSE5YcHhaw!/b&bo=qQZRAwAAAAABF80!&rf=viewer_4" width="500"/>
 
+### Schoeller Modification
+<img src="mod_images/Schoeller Diagram mod.jpg" width="500"/>
+
 ### Gibbs
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEEYIDsjXF2BR6qd0W.btr15at96MQhDvyw9uAAjsrtmZuZqOR3YtXE8KWjo55kp3zQ509JwGt1MUDib4fCnbvr4!/b&bo=JgY4BAAAAAABFyw!&rf=viewer_4" width="600"/>
+
+### Gibbs Modification
+<img src="mod_images/Gibbs Diagram mod.jpg" width="600"/>
 
 ### Chadha
 
@@ -150,9 +179,15 @@ HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrECsn0CF64ozzuyGKuF1Zy.ZbPZrJGJ32i50dguivjbGLIOHY9cOi1QLA1Zo8sk*aMPHQGu*NLlpBEkm*1vNbkEs!/b&bo=Kwo4BAAAAAABFy0!&rf=viewer_4" width="600"/>
 
+### Gaillardet Modification
+<img src="mod_images/Gaillardet Diagram mod.jpg" width="600"/>
+
 ### HFE-D
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrENfr7msUfIWvp3kVfM8MrjAN69HYZrIFaJ7sEWMk1ikSlnro6GZmXw1k2u..tuy8WVBrAvfoMM9cjmh4.rjMSUI!/b&bo=qAU4BAAAAAABF6E!&rf=viewer_4" width="600"/>
+
+### HFE-D Modification
+<img src="mod_images/HFE-D Diagram mod.jpg" width="600"/>
 
 ## How to cite
 

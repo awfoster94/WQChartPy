@@ -118,11 +118,11 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 
 ### Triangle Piper 
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrECmTiF9WFCBK*FqbaC1Gc9x8p0qnA.IgiMoIYsqJbpqLbhokrRynpBx.b4LtRhNGuzcMrO4vXEwgLmeRZte6ItI!/b&bo=yQQ4BAAAAAABF8E!&rf=viewer_4" width="400"/>
+<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrECmTiF9WFCBK*FqbaC1Gc9x8p0qnA.IgiMoIYsqJbpqLbhokrRynpBx.b4LtRhNGuzcMrO4vXEwgLmeRZte6ItI!/b&bo=yQQ4BAAAAAABF8E!&rf=viewer_4" width="600"/>
 
 ### Triangle Piper with color varying across TDS values
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEBru*QgAOH7Q*HFhoW*r.ZSdVPFpNMgWY06mi6kr023QxWX1LysoKTNSjvZsYZQFGB4BAkAqV*ER4H97ojaeg24!/b&bo=ZAU4BAAAAAABF20!&rf=viewer_4" width="400"/>
+<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEBru*QgAOH7Q*HFhoW*r.ZSdVPFpNMgWY06mi6kr023QxWX1LysoKTNSjvZsYZQFGB4BAkAqV*ER4H97ojaeg24!/b&bo=ZAU4BAAAAAABF20!&rf=viewer_4" width="600"/>
 
 ### Rectangle Piper
 
@@ -130,11 +130,11 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 
 ### Color-coded Piper
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEH5ZUa7NHBJfUicR19oK1LdR.4BlQkIGQK5ZStLnkw0hw2dZ3HZ0RMTh6MUXtCT8lS9iKyNVp*yqKMdenah5Gyw!/b&bo=kQQ4BAAAAAABF5k!&rf=viewer_4" width="400"/>
+<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEH5ZUa7NHBJfUicR19oK1LdR.4BlQkIGQK5ZStLnkw0hw2dZ3HZ0RMTh6MUXtCT8lS9iKyNVp*yqKMdenah5Gyw!/b&bo=kQQ4BAAAAAABF5k!&rf=viewer_4" width="600"/>
 
 ### Contour-filled Piper
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrELaJZx2xDjJTZR7e5mjwQ7hVXxTfCTamHwVQU09sclARJPwdmwMWxWwhlVnwZqUne89Ni3WCFfFZPYh*CXc15tE!/b&bo=kgIVAgAAAAABF7c!&rf=viewer_4" width="400"/>
+<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrELaJZx2xDjJTZR7e5mjwQ7hVXxTfCTamHwVQU09sclARJPwdmwMWxWwhlVnwZqUne89Ni3WCFfFZPYh*CXc15tE!/b&bo=kgIVAgAAAAABF7c!&rf=viewer_4" width="600"/>
 
 ### Durov
 
@@ -145,10 +145,10 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 
 ### Stiff
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJ0QBoQ3kzaRJmIjLTV2iGzJ1f88h7s7cZxWBVMD45bHVTWxXGhucZBhj7Ug7nTwNJTm53CIaNHFVO4HUOmHL6w!/b&bo=ZgTAAwAAAAABF5E!&rf=viewer_4" width="300"/>
+<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJ0QBoQ3kzaRJmIjLTV2iGzJ1f88h7s7cZxWBVMD45bHVTWxXGhucZBhj7Ug7nTwNJTm53CIaNHFVO4HUOmHL6w!/b&bo=ZgTAAwAAAAABF5E!&rf=viewer_4" width="600"/>
 
 ### Stiff Modification Inidividual
-<img src="mod_images/Stiff Diagram mod_sample6.jpg" width="300"/>
+<img src="mod_images/Stiff Diagram mod_sample6.jpg" width="600"/>
 
 ### Stiff Modification Combined
 <img src="mod_images/Stiff Diagram mod_combined.jpg" width="600"/>
@@ -159,10 +159,10 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 
 ### Schoeller
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJxgqA6zKacIyWVqI1dsvgm0t8el8yLIIyKkatCvtLXFm03BnWImNlfZ9EyRr*wtXQ4Iasm4SWyJupSE5YcHhaw!/b&bo=qQZRAwAAAAABF80!&rf=viewer_4" width="500"/>
+<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJxgqA6zKacIyWVqI1dsvgm0t8el8yLIIyKkatCvtLXFm03BnWImNlfZ9EyRr*wtXQ4Iasm4SWyJupSE5YcHhaw!/b&bo=qQZRAwAAAAABF80!&rf=viewer_4" width="600"/>
 
 ### Schoeller Modification
-<img src="mod_images/Schoeller Diagram mod.jpg" width="500"/>
+<img src="mod_images/Schoeller Diagram mod.jpg" width="600"/>
 
 ### Gibbs
 
@@ -177,7 +177,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 
 ### Gaillardet
 
-<img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrECsn0CF64ozzuyGKuF1Zy.ZbPZrJGJ32i50dguivjbGLIOHY9cOi1QLA1Zo8sk*aMPHQGu*NLlpBEkm*1vNbkEs!/b&bo=Kwo4BAAAAAABFy0!&rf=viewer_4" width="600"/>
+<img src="mod_images/Gaillardet Diagram.jpg" width="600"/>
 
 ### Gaillardet Modification
 <img src="mod_images/Gaillardet Diagram mod.jpg" width="600"/>

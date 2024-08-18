@@ -114,6 +114,7 @@ HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figformat)
 
 ### Triangle Piper Modification with Hydrogeochemical Facies Interpretation
+
 <img src="mod_images/triangle Piper diagram mod.jpg" width="600"/>
 
 ### Triangle Piper 
@@ -141,6 +142,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEEELoir7Oh4SDzBYQWBXJICvbD3nwobK7w.AAFx2guuOu1H7LyyMwkYlEcEm8DlajY4MLCz1N2LBOjkMUqmtYNo!/b&bo=3AU4BAAAAAABF9U!&rf=viewer_4" width="600"/>
 
 ### Durov Modification
+
 <img src="mod_images/Durov Diagram mod.jpg" width="600"/>
 
 ### Stiff
@@ -148,9 +150,11 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJ0QBoQ3kzaRJmIjLTV2iGzJ1f88h7s7cZxWBVMD45bHVTWxXGhucZBhj7Ug7nTwNJTm53CIaNHFVO4HUOmHL6w!/b&bo=ZgTAAwAAAAABF5E!&rf=viewer_4" width="600"/>
 
 ### Stiff Modification Inidividual
+
 <img src="mod_images/Stiff Diagram mod_sample6.jpg" width="600"/>
 
 ### Stiff Modification Combined
+
 <img src="mod_images/Stiff Diagram mod_combined.jpg" width="600"/>
 
 ### Chernoff face
@@ -162,6 +166,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJxgqA6zKacIyWVqI1dsvgm0t8el8yLIIyKkatCvtLXFm03BnWImNlfZ9EyRr*wtXQ4Iasm4SWyJupSE5YcHhaw!/b&bo=qQZRAwAAAAABF80!&rf=viewer_4" width="600"/>
 
 ### Schoeller Modification
+
 <img src="mod_images/Schoeller Diagram mod.jpg" width="600"/>
 
 ### Gibbs
@@ -169,6 +174,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEEYIDsjXF2BR6qd0W.btr15at96MQhDvyw9uAAjsrtmZuZqOR3YtXE8KWjo55kp3zQ509JwGt1MUDib4fCnbvr4!/b&bo=JgY4BAAAAAABFyw!&rf=viewer_4" width="600"/>
 
 ### Gibbs Modification
+
 <img src="mod_images/Gibbs Diagram mod.jpg" width="600"/>
 
 ### Chadha
@@ -177,9 +183,10 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 
 ### Gaillardet
 
-<img src="mod_images/Gaillardet Diagram.jpg" width="600"/>
+<img src="original_images/Gaillardet Diagram.jpg" width="600"/>
 
 ### Gaillardet Modification
+
 <img src="mod_images/Gaillardet Diagram mod.jpg" width="600"/>
 
 ### HFE-D
@@ -187,6 +194,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrENfr7msUfIWvp3kVfM8MrjAN69HYZrIFaJ7sEWMk1ikSlnro6GZmXw1k2u..tuy8WVBrAvfoMM9cjmh4.rjMSUI!/b&bo=qAU4BAAAAAABF6E!&rf=viewer_4" width="600"/>
 
 ### HFE-D Modification
+
 <img src="mod_images/HFE-D Diagram mod.jpg" width="600"/>
 
 ## How to cite

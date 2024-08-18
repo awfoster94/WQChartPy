@@ -100,7 +100,7 @@ Gaillardet| from wqchartpy import gaillardet; gaillardet.plot(df, unit, figname,
 HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 
 ### Triangle Piper Modification with Hydrogeochemical Facies Interpretation
-![Alt text](mod_images/triangle Piper diagram mod.jpg?raw=true "Title")
+<img src="mod_images/triangle Piper diagram mod.jpg" width="400"/>
 
 ### Triangle Piper 
 

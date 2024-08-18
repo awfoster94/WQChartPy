@@ -114,7 +114,7 @@ HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figformat)
 
 ### Triangle Piper Modification with Hydrogeochemical Facies Interpretation
-<img src="mod_images/triangle Piper diagram mod.jpg" width="400"/>
+<img src="mod_images/triangle Piper diagram mod.jpg" width="600"/>
 
 ### Triangle Piper 
 
@@ -148,10 +148,10 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEJ0QBoQ3kzaRJmIjLTV2iGzJ1f88h7s7cZxWBVMD45bHVTWxXGhucZBhj7Ug7nTwNJTm53CIaNHFVO4HUOmHL6w!/b&bo=ZgTAAwAAAAABF5E!&rf=viewer_4" width="300"/>
 
 ### Stiff Modification Inidividual
-<img src="mod_images/Stiff Diagram mod_sample1.jpg" width="300"/>
+<img src="mod_images/Stiff Diagram mod_sample6.jpg" width="300"/>
 
 ### Stiff Modification Combined
-<img src="mod_images/Stiff Diagram mod_combined.jpg" width="300"/>
+<img src="mod_images/Stiff Diagram mod_combined.jpg" width="600"/>
 
 ### Chernoff face
 

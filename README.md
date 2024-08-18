@@ -141,7 +141,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrEEELoir7Oh4SDzBYQWBXJICvbD3nwobK7w.AAFx2guuOu1H7LyyMwkYlEcEm8DlajY4MLCz1N2LBOjkMUqmtYNo!/b&bo=3AU4BAAAAAABF9U!&rf=viewer_4" width="600"/>
 
 ### Durov Modification
-<img src="mod_images/Durov diagram mod.jpg" width="600"/>
+<img src="mod_images/Durov Diagram mod.jpg" width="600"/>
 
 ### Stiff
 
@@ -151,7 +151,7 @@ HFE-D Mod| from wqchartpy import hfed_mod; hfed_mod.plot(df, unit, figname, figf
 <img src="mod_images/Stiff Diagram mod_sample1.jpg" width="300"/>
 
 ### Stiff Modification Combined
-<img src="mod_images/Durov diagram mod_combined.jpg" width="300"/>
+<img src="mod_images/Stiff Diagram mod_combined.jpg" width="300"/>
 
 ### Chernoff face
 

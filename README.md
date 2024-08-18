@@ -99,6 +99,9 @@ Chadha| from wqchartpy import chadha; chadha.plot(df, unit, figname, figformat)
 Gaillardet| from wqchartpy import gaillardet; gaillardet.plot(df, unit, figname, figformat)
 HFE-D| from wqchartpy import hfed; hfed.plot(df, unit, figname, figformat)
 
+### Triangle Piper Modification with Hydrogeochemical Facies Interpretation
+![Alt text](mod_images/triangle Piper diagram mod.jpg?raw=true "Title")
+
 ### Triangle Piper 
 
 <img src="http://m.qpic.cn/psc?/V5428EvQ2PMkSA3NWIHm4Ak3hg45PLib/TmEUgtj9EK6.7V8ajmQrECmTiF9WFCBK*FqbaC1Gc9x8p0qnA.IgiMoIYsqJbpqLbhokrRynpBx.b4LtRhNGuzcMrO4vXEwgLmeRZte6ItI!/b&bo=yQQ4BAAAAAABF8E!&rf=viewer_4" width="400"/>

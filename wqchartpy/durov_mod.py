@@ -348,4 +348,4 @@ if __name__ == '__main__':
             }
     df = pd.DataFrame(data)
     # df = pd.read_csv('../data/data_template.csv')
-    plot(df, unit='mg/L', figname='Durvo diagram', figformat='jpg')
+    plot(df, unit='mg/L', figname='Durov diagram', figformat='jpg')
